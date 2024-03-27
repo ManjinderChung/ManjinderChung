@@ -16,7 +16,7 @@ My journey into coding is not just a career change; it's a daring leap into a wo
 
 Here is a quick snapshot of me:
 
-- 🎓 I’m currently working full-time whilst undertaking a Web Development Bootcamp (not to mention juggiling a family!).
+- 🎓 I’m currently working full-time whilst undertaking a Web Development Bootcamp (not to mention juggling a family!).
 - 🌱 I’m currently learning a lot about HTML, JavaScript, CSS, Front and Back end development and completing some very challenging tasks.
 - 👯 In future, I would love to collaborate on small projects before taking that leap to building robust solutions.
 - 💬 Ask me about the challenges faced in an intense bootcamp whilst managing a full time job and family life.
